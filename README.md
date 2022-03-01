@@ -8,7 +8,7 @@
   <a href="https://github.com/MarcelCyan"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+MarcelCyan;I+Learn+HTML+And+Javascript;I+Am+18+Years+Old;I+live+In+Indonesia;Pls+don't+bully+me+:(+:(" alt="Asu">
 </p>
 
-# AND THIS MY INFO
+# 🎨 And This My Info
 
 
 - 🌱 I’m currently learning *WhatsApp Bot*.
@@ -18,7 +18,7 @@
 - 📝 I'm currently working on [`MarcelCyan`](https://github.com/MarcelCyan/) 
 ___
 
-# INTRODUCTING MY SELF 
+# 🍁 Introduction My Self 
 ```
 > Name: Endar Marcel Johana
 > Status: Single Man and Student at SMAN 1 Sekampung
